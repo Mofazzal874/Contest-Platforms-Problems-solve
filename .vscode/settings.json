@@ -1,0 +1,15 @@
+{
+    "cph.general.onceMaintainerMessage": false,
+    "files.associations": {
+        "ostream": "cpp",
+        "algorithm": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "random": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp",
+        "xutility": "cpp",
+        "xstring": "cpp",
+        "iostream": "cpp"
+    }
+}
